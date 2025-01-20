@@ -1,10 +1,17 @@
 RENCANA BELAJAR LIYAH
 
+- Github
+- Git
 - Bahasa pemrograman
   * Html
+  * Python
+  * C++
+  * Css
+  * Javacript
+  * PHP
 - UI/UX
-- Web desain
-- Website
+- Desain Website
+- buat Website
 - membuat aplikasi
   * mobile
 - Basis data
